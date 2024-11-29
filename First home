@@ -1,0 +1,27 @@
+o<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MD GFX - Ujayer Rahaman</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <header>
+        <h1 class="logo">MD GFX</h1>
+    </header>
+    <main>
+        <section class="intro">
+            <h2>Hi, I am Ujayer Rahaman</h2>
+            <p>A passionate web developer and graphics designer dedicated to creating high-quality and visually appealing solutions.</p>
+        </section>
+        <section class="portfolio">
+            <h2>Portfolio</h2>
+            <div class="portfolio-items">
+                <img src="images/coding.jpg" alt="Coding Image"> <img src="images/graphic-design.jpg" alt="Graphic Design Image"> </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 MD GFX - Ujayer Rahaman</p>
+    </footer>
+</body>
+</html>
